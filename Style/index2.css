@@ -1,0 +1,108 @@
+#head-img
+{
+    border : none;
+    margin: auto;
+    text-align: center;
+    margin-top : 20px;
+    background-color : #9E0D08;
+    background-image: url('../images/index_back.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    width : 100%;
+    height : 250px;
+}
+
+#description_text
+{
+    background-color: #FED5D6;
+    text-align: justify;
+    padding : 20px;
+    border: solid 1px #A10812;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+}
+
+#description h3
+{
+    text-transform: none;
+}
+
+#separation_lines
+{
+    height : 30px;
+    border-bottom: dashed 1px #c8c8c8;
+    border-top : dashed 1px #c8c8c8;
+}
+
+.news p
+{
+    background-color: #EEEEEE;
+    text-align: justify;
+    padding : 20px;
+    border: solid 1px #C8C8C8;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+}
+
+#corpus
+{
+    float: left;
+    width : 65%
+}
+
+#sidebar
+{
+    float: right;
+    background-color : white;
+    margin-left : 20px;
+    padding-left : 10px;
+    width: 30%;
+}
+
+.clear{
+    clear : both;
+}
+
+#stats
+{
+    border-top : dashed 1px #c8c8c8;
+}
+
+#papers
+{
+    margin-bottom: 25px;
+}
+
+#papers ul
+{  
+    padding-left: 0px;
+}
+
+#stats ul
+{   
+    padding-left: 0px;
+}
+
+#papers li
+{
+    margin-bottom: 10px;
+    list-style-type : none;
+    text-align : justify;   
+}
+
+#stats li
+{
+    list-style-type : none;
+    text-align : justify;
+}
+
+span.authors
+{
+    font-family: "Times New Roman", sans-serif;
+    color: grey;
+}
+
+span.abstract
+{
+    font-size : 11px;
+}

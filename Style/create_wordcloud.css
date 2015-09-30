@@ -1,0 +1,52 @@
+#corpus
+{
+    padding-left : 30px;
+    text-align : left;
+}
+
+#corpus p
+{
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+#menu2
+{
+    border-top: 1px solid #C8C8C8;
+    border-bottom: 1px solid #C8C8C8;
+    text-align: left;
+	font-weight: bold;
+	font-size : 110%;
+	font-family : Arial;
+    margin-bottom: 20px;
+    margin-top : 0px;
+}
+
+#menu2 p
+{
+    font-family: "Trebuchet MS",Arial,Helvetica,sans-serif;
+    font-size: 15px;
+    text-transform: uppercase;
+    margin: 0px;
+    padding: 0px;
+    padding-left : 15px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    padding-right : 30px;
+    color: #A10812;
+}
+
+span.link
+{
+    margin-right : 25px;
+}
+
+input[type=submit]
+{
+    background-image : url('../images/createwordcloud.png');
+    background-repeat : no-repeat;
+    background-color : none;
+    width : 114px;
+    height : 29px;
+    border : none;
+}

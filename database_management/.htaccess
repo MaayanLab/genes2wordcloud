@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Restricted Area"
+AuthUserFile "/home/maaya0/.htpasswds/public_html/Genes2WordCloudbeta/database_management/passwd"
+require valid-user

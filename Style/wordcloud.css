@@ -1,0 +1,92 @@
+#corpus
+{
+    text-align : left;
+}
+
+#informations_origins
+{
+	margin: auto;
+	margin-left: 25%;
+	text-align: center;
+	margin-bottom: 0px;
+	padding-bottom : 0px;
+}
+
+#informations_origins h4
+{
+	margin-bottom: 0px;
+	padding-bottom : 0px;
+}
+
+
+#informations_origins p
+{
+	margin-top: 0px;
+	padding-top : 0px;
+}
+
+#form_applet
+{
+    margin: auto;
+    text-align: left;
+    overflow: auto;
+    float: left;
+    width: 25%;
+}
+
+#appletcontainer
+{
+	margin: auto;
+    overflow: hidden;
+    text-align: center;
+    width: 75%;
+    padding-bottom : 20px;
+}
+
+#applet
+{
+	margin: auto;
+    overflow: hidden;
+    text-align: center;
+    padding-bottom : 20px;
+}
+
+#appletData
+{
+    border-top: solid 1px #EEEEEE;
+    margin-top: 0px;
+	text-align: center;
+	margin:auto;
+}
+
+#appletData table
+{
+	margin:auto;
+}
+
+
+input[type=submit]
+{
+    background-image : url('../images/submit.png');
+    background-repeat : no-repeat;
+    background-color : none;
+    width : 98px;
+    height : 29px;
+    border : none;
+}
+
+.clear{
+    clear : both;
+}
+
+#remove_keywords
+{
+    border-top: solid 1px #EEEEEE;
+    margin-top : 20px;
+}
+
+#downloads
+{
+    border-top: solid 1px #EEEEEE;
+    margin-top : 20px;
+}
